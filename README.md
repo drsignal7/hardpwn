@@ -164,7 +164,11 @@ The authors take no responsibility for misuse.
 
 ## 👤 Credits
 
+<<<<<<< HEAD
 Developed with ❤️ by **Prady**  
+=======
+Developed with ❤️ by **[Your Name / Handle]**  
+>>>>>>> 83f524fe7485dba4e4ebfd67c0fe1b83598b4d75
 Inspired by years of community hardware research and automation needs.  
 
 ---
