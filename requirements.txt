@@ -1,0 +1,5 @@
+spidev
+smbus
+pyserial
+RPi.GPIO
+sqlite-utils
